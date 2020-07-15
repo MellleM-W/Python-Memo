@@ -1,2 +1,2 @@
 # Python-Memo
-A collection of Python code I wrote for different questions
+A collection of Python code I wrote for different problems
